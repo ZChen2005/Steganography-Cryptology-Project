@@ -1,8 +1,8 @@
 # Steganography-Cryptology-Project
 
 ## Requirements:
-Python
-Pillow extenstion
+Python |
+Pillow extenstion |
 Wave module 
 
 ## Image:
